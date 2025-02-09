@@ -1,6 +1,8 @@
+package Math.M4375;
+
 import java.util.*;
 
-public class Main4375 {
+public class Main {
 
     public static void main(String[] args) throws Exception {
         //2와 5로 나누어 떨어지지 않는 정수 n(1 ≤ n ≤ 10000)가 주어졌을 때,

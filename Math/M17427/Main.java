@@ -1,7 +1,9 @@
+package Math.M17427;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main17427{
+public class Main{
 
     public static void main(String[] args) throws Exception {
         //두 자연수 A와 B가 있을 때, A = BC를 만족하는 자연수 C를 A의 약수라고 한다.
